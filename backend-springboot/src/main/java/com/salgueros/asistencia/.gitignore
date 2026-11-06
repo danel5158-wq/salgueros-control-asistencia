@@ -1,0 +1,13 @@
+# Archivos de compilación de Java / Spring Boot
+backend-springboot/target/
+*.class
+*.jar
+
+# Configuración local de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
